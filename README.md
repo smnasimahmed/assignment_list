@@ -10,6 +10,7 @@ Efficiently organize and track your assignments with our task manager app! Add t
 ## Bugs need to be fixed
 * To see update need to restart the app.
 * After CRUD operation close buttion pressing necessary. Otherwise it may crash.
+* Setting the time.
 
 ## Getting Started
 
