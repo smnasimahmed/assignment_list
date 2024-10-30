@@ -43,6 +43,9 @@ Displays a fallback message for undefined routes.
 * After CRUD operation close buttion pressing necessary. Otherwise it may crash.
 * Setting the time.
 
+## Future Plans
+* Push Notifications: Notify users about study reminders and deadlines.
+* Analytics Dashboard: Provide insights on study progress and performance.
 
 ## How to Install and Run Locally
 ### Prerequisites
