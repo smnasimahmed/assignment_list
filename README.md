@@ -52,7 +52,7 @@ Displays a fallback message for undefined routes.
 ### Steps
 #### Clone the repository:
 ```
-https://github.com/smnasimahmed/versity_flutter_calculator.git
+https://github.com/smnasimahmed/assignment_list.git
 ```
 
 #### Install dependencies:
