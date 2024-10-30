@@ -10,11 +10,11 @@ The **Study Tracker App** is a Flutter-based mobile application designed to help
 </p>
 
 ## Features
-* Study Activity Management: Add, edit, and track study activities efficiently.
-* SQLite Integration: Store and retrieve study data locally on the device.
-* Custom Form Widgets: Includes reusable components like CustomDatePickerFormField and CustomTextFormField.
-* Dynamic Routing: Uses RouteGenerator for smooth navigation.
-* Error Handling: Displays a fallback message for undefined routes.
+Add, edit, and track study activities efficiently.
+Store and retrieve study data locally on the device.
+Includes reusable components like CustomDatePickerFormField and CustomTextFormField.
+Uses RouteGenerator for smooth navigation.
+Displays a fallback message for undefined routes.
 
 ## What I Used / Learned
 * Flutter with SQLite: Implemented SQLite for effective local storage management.
