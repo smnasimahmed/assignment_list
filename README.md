@@ -10,32 +10,32 @@ The **Study Tracker App** is a Flutter-based mobile application designed to help
 </p>
 
 ## Features
-Study Activity Management: Add, edit, and track study activities efficiently.
-SQLite Integration: Store and retrieve study data locally on the device.
-Custom Form Widgets: Includes reusable components like CustomDatePickerFormField and CustomTextFormField.
-Dynamic Routing: Uses RouteGenerator for smooth navigation.
-Error Handling: Displays a fallback message for undefined routes.
+* Study Activity Management: Add, edit, and track study activities efficiently.
+* SQLite Integration: Store and retrieve study data locally on the device.
+* Custom Form Widgets: Includes reusable components like CustomDatePickerFormField and CustomTextFormField.
+* Dynamic Routing: Uses RouteGenerator for smooth navigation.
+* Error Handling: Displays a fallback message for undefined routes.
 
 ## What I Used / Learned
-*Flutter with SQLite: Implemented SQLite for effective local storage management.
-*Custom Widgets: Designed form fields for consistent user input.
-*Dynamic Route Management: Used RouteGenerator for navigating between screens.
-*Error Handling: Implemented fallback routes for better user experience.
+* Flutter with SQLite: Implemented SQLite for effective local storage management.
+* Custom Widgets: Designed form fields for consistent user input.
+* Dynamic Route Management: Used RouteGenerator for navigating between screens.
+* Error Handling: Implemented fallback routes for better user experience.
 
 ## Challenges and issue
 
 ### SQLite Data Management:
-#### Problem: Proper schema design and query management were critical for maintaining data consistency.
-#### Solution: Implemented CRUD operations following best practices and optimized queries for performance.
+* Problem: Proper schema design and query management were critical for maintaining data consistency.
+* Solution: Implemented CRUD operations following best practices and optimized queries for performance.
 
 
 ### Route Argument Type Safety:
-#### Problem: Handling arguments in navigation can lead to runtime issues.
-#### Solution: Used argument validation to prevent navigation errors.
+* Problem: Handling arguments in navigation can lead to runtime issues.
+* Solution: Used argument validation to prevent navigation errors.
 
 ### State Management:
-#### Problem: Managing form state across multiple screens can be tricky.
-#### Solution: State management with Provider or Bloc is recommended for future updates.
+* Problem: Managing form state across multiple screens can be tricky.
+* Solution: State management with Provider or Bloc is recommended for future updates.
 
 
 ## Bugs need to be fixed
