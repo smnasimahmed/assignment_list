@@ -12,14 +12,14 @@ The **Study Tracker App** is a Flutter-based mobile application designed to help
 ## Features
 Add, edit, and track study activities efficiently.
 Store and retrieve study data locally on the device.
-Includes reusable components like CustomDatePickerFormField and CustomTextFormField.
-Uses RouteGenerator for smooth navigation.
+Includes reusable components like ```CustomDatePickerFormField``` and ```CustomTextFormField```.
+Uses ```RouteGenerator``` for smooth navigation.
 Displays a fallback message for undefined routes.
 
 ## What I Used / Learned
 * Flutter with SQLite: Implemented SQLite for effective local storage management.
 * Custom Widgets: Designed form fields for consistent user input.
-* Dynamic Route Management: Used RouteGenerator for navigating between screens.
+* Dynamic Route Management: Used ```RouteGenerator``` for navigating between screens.
 * Error Handling: Implemented fallback routes for better user experience.
 
 ## Challenges and issue
@@ -35,7 +35,7 @@ Displays a fallback message for undefined routes.
 
 ### State Management:
 * Problem: Managing form state across multiple screens can be tricky.
-* Solution: State management with Provider or Bloc is recommended for future updates.
+* Solution: State management with ```Provider``` or ```Bloc``` is recommended for future updates.
 
 
 ## Bugs need to be fixed
